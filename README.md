@@ -21,5 +21,5 @@ Output: cluster results
 Input: cluster results
 Usage: python PPA_Step_3.py 100 PicVocab
        (100 is number of clusters, Picvocab is one human trait name, users could adjust here)
-Output: prediction results
+Output: prediction model
 ```
